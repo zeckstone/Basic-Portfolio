@@ -1,0 +1,158 @@
+
+body {
+    background-color: bisque;
+    font-family: serif;
+}
+
+header {
+    background-color: azure;
+    padding-top: 20px;
+    height: 100px;
+    width: 100%;
+    margin-top: -5pt;
+    font-family: serif;
+}
+.ah1 {
+    margin-top: 30pt;
+    margin-left: 101pt;
+    color: turquoise;
+    font-family: serif;
+}
+
+.button1 {
+    margin-top: -35pt;
+    margin-right: 265pt;
+    background-color: turquoise;
+    float: right;
+    font-family: serif;
+    font-size: 16px;
+}
+
+.button2 {
+    margin-top: -35pt;
+    margin-right: 190pt;
+    background-color: turquoise;
+    float: right;
+    font-family: serif;
+    font-size: 16px;
+}
+
+.button3 {
+    margin-top: -35pt;
+    margin-right: 120pt;
+    background-color: turquoise;
+    float: right;
+    font-family: serif;
+    font-size: 16px;
+}
+
+h2 {
+    color: turquoise;
+    font-size: 35px;
+    padding: 5px 1px 0 0px;
+    margin-bottom: 10pt;
+}
+
+.hr1 {
+ 
+}
+
+.b {
+    width: 250px;
+    height: 275px;
+    float: left;
+    margin-top: 16pt;
+}
+
+.c {
+   width: 630px;
+   margin-left: 15pt;
+    float: left;
+    line-height: 28px;
+}
+
+.body1 {
+    font-family: 'Neuton', serif;
+    margin: 20pt 150pt 200pt 100pt;
+    width: 960px;
+    height: 480px;
+    background-color: azure;
+
+}
+
+.body2 {
+    width: 900px;
+    padding-top: 1px;
+    margin: auto;
+}
+
+
+.pbody2 {
+    width: 960px;
+    margin-left: 100pt;
+    margin-top: 20pt;
+    background-color: azure;
+    height: 480px;
+}
+
+.pbody3 {
+    width: 900px;
+    margin-left: 20pt;
+    padding: 1px;
+}
+
+.h1p {
+    color: turquoise;
+}
+
+#image1 {
+    width: 250px;
+    height: 275px;
+    float: left;
+    padding-top: 20px;
+}
+
+#image2 {
+    width: 250px;
+    height: 275px;
+    float: left;
+    margin-left: 15pt;
+    padding-top: 20px;
+}
+
+.cbody2 {
+    margin: 20pt 0pt 0pt 100pt;
+    width: 960px;
+    height: 480px;
+    background-color: azure;
+    padding-top: 5px;
+}
+
+.h1c {
+  color: turquoise;
+  font-family: serif;
+}
+
+.cbody3 {
+    width: 900px;
+    margin: auto;
+}
+
+.name {
+    width: 900px;
+}
+
+.email {
+    width: 900px;
+}
+
+.message {
+    width: 900px;
+    height: 200px;
+}
+
+.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
